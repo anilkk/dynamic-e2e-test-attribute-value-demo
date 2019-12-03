@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  color: #333;
+}
+ul > li {
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.tooltip ul {
+  margin: 5px;
+  text-align: left;
+}
